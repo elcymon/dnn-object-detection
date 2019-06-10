@@ -1,0 +1,6 @@
+classes= 1
+train  = litter/train.txt
+valid  = litter/test.txt
+names = litter/litter.names
+backup = backup/
+
